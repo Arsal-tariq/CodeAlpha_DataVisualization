@@ -23,10 +23,3 @@ This project demonstrates how to create dynamic and comprehensive visualizations
 2.Navigate to the project folder:
   ```bash
     cd your-repo-name
-
-
-   
-
-
-
- 
