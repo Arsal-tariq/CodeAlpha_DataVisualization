@@ -19,3 +19,52 @@ This project demonstrates how to create dynamic and comprehensive visualizations
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+   Navigate to the project folder:
+
+cd your-repo-name
+
+
+Install required libraries (if not already installed):
+
+pip install pandas matplotlib seaborn
+
+
+Replace the sample dataset in data_visualization.py with your own dataset:
+
+df = pd.read_csv("your_dataset.csv")
+
+
+Run the script:
+
+python data_visualization.py
+
+Example Visualizations
+
+Histograms of numeric features
+
+Correlation heatmap
+
+Scatter plots for numeric pairs
+
+Bar charts comparing numeric and categorical features
+
+Line plots showing trends over the index
+
+Notes
+
+The code automatically identifies numeric and categorical columns.
+
+Scatter plots are generated for all numeric column combinations.
+
+Bar charts are generated for all categorical-numeric pairs.
+
+Line plots are generated for all numeric columns over the dataset index.
+
+Author
+
+Arsal Tariq Chohan
+
+License
+
+This project is open-source and available under the MIT License.
