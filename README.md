@@ -20,10 +20,13 @@ This project demonstrates how to create dynamic and comprehensive visualizations
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
+2.Navigate to the project folder:
+  ```bash
+    cd your-repo-name
+
+
    
-  2.Navigate to the project folder:
-   ```bash
-  cd your-repo-name
+
 
 
  
